@@ -9,6 +9,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+<<<<<<< HEAD
 }
 body{
     background: linear-gradient(to top,skyblue,blue);
@@ -17,4 +18,7 @@ body{
 p{
     border-radius: 5px;
     border-style: outset;
+=======
+    background: orange;
+>>>>>>> 45cb3b5f5a435652f2e65a1fdaffbd359ffb3e19
 }
