@@ -10,3 +10,11 @@ body{
     align-items: center;
     justify-content: center;
 }
+body{
+    background: linear-gradient(to top,skyblue,blue);
+    background-repeat: no-repeat;
+}
+p{
+    border-radius: 5px;
+    border-style: outset;
+}
