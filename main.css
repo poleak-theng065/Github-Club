@@ -9,5 +9,5 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: teal;
+    background-color: rgb(9, 255, 0);
 }
