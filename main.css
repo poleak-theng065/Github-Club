@@ -10,8 +10,16 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+<<<<<<< HEAD
+    background-color: rgb(212, 177, 18);
+}
+=======
     background: orange;
 
 }
 
+<<<<<<< HEAD
 h1
+=======
+>>>>>>> 49fbbddf93fc075b1af026695c43cb1b9062845e
+>>>>>>> 556ce9eb35323b12b6253307ccc746bb4fdef367
