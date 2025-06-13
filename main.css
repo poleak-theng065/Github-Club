@@ -1,7 +1,8 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-size: large;
 }
 
 body{
@@ -9,5 +10,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: orange;
+}
+body{
+    background: linear-gradient(to top,skyblue,blue);
+    background-repeat: no-repeat;
+}
+p{
+    border-radius: 5px;
+    border-style: outset;
 }
