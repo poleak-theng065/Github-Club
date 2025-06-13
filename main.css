@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-size: large;
 }
 
 body{
@@ -9,8 +10,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: large;
-    background-color: teal; 
- 
+    background: orange;
 }
 
