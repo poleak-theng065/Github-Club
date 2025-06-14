@@ -13,7 +13,7 @@ body{
 }
 body{
     background: linear-gradient(to top,skyblue,blue);
-    background-repeat: no-repeat;
+    background-color: red;
 }
 p{
     border-radius: 5px;
