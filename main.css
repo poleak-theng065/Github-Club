@@ -1,7 +1,8 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-size: large;
 }
 
 body{
@@ -9,6 +10,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color:pink;
-
+    background-color: rgb(9, 255, 0);
 }
+
